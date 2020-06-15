@@ -6,7 +6,7 @@ public class Test01 {
 
          System.out.println("와씨~~");
 
-         System.out.println("뭐랄까?"); //  utp-8�� �ϱ� �������� �ѱ��� �������δ�.
+         System.out.println("뭐랄까?"); //  utp-8
        
           System.out.println("hello,world.");
        
