@@ -4,9 +4,9 @@ public class Person {
 	String name;
 	String address;
 	int age;
-
+//default 는 같은패키지 안에서.
 	void run() {
-		System.out.println(name + "이 달립니다.");
+		System.out.println(name + "이 달립니다.");//this. 생략.
 		if (age > 30) {
 			System.out.println(age + "가 되니까 지치는구나.");
 

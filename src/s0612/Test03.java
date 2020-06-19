@@ -5,9 +5,12 @@ public class Test03 {
  char c = '1';
  
  String str = 1+"";
- String str2 = "123";
- System.out.println(str+str2);
  
+ String str1 = new String("123");
+ 
+ String str2 = "123";
+ System.out.println(str1=="123");
+ System.out.println(str2=="123");
  
 
 	}

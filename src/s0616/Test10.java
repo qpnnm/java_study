@@ -20,5 +20,14 @@ public class Test10 {
 			System.out.println("얼~지방~");
 
 		}
-	}
+	
+
+//null 때문에 문자열 혹은 어떤 값을 변수랑 비교하는 것을 더 권장한다.
+// if(a==null){
+
+            // throw new Exception("마 a는 null 안돼!!") {
+	
+//} 
+  //                 System.out.println("1".equals(a));
+}
 }
